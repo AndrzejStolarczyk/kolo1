@@ -10,7 +10,7 @@ class Kolo1 {
 		System.out.println("Q1) Jak wyswietlic roznice miedzy drugim a trzecim zatwierdzeniem wykonanym w galezi master?");
 	System.out.println("A1) git diff HEAD^^ HEAD^^^");
 	System.out.println("Q2) Co sie zmienilo?");
-	System.out.println("A2) Zmieni³ siê pkt pierwszy";
+	System.out.println("A2) Zmieniï¿½ siï¿½ pkt pierwszy");
 }
 
 
