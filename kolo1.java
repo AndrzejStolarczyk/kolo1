@@ -1,4 +1,4 @@
-// Imie, Nazwisko, grupa(specjalnosc), nr. indeksu
+// Andrzej Stolarczyk, ZSZiAD, 101582
 
 class Kolo1 {
   public static void main(String[] args) {
